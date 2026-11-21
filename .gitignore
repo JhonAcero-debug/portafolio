@@ -1,0 +1,3 @@
+# Original (heavy) videos stay local; only videos-web/ is published
+/*.mp4
+.claude/
